@@ -5,6 +5,8 @@
 This is a Python3 Script for hacking Gmail account using Dictionary Attack Methord.
 (script is written by using python 3 )
 
+![alt text](https://github.com/hackingisntforkids/hack-gmail/blob/main/demo1.JPG)
+
 
 # Installation
 
@@ -14,10 +16,7 @@ This is a Python3 Script for hacking Gmail account using Dictionary Attack Metho
 # How to Run the Script ? 
 
     $ cd hack-gmail
-    $ python3 hack-gmail.py
-    
-![screenshot](https://github.com/hackingisntforkids/hack-gmail/blob/master/demo/demo1.png)
-         
+    $ python3 hack-gmail.py   
 
 # You need to have python 3 pre-installed
 To check your python version, go terminal and search.
